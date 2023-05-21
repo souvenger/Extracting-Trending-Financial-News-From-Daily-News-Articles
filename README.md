@@ -1,3 +1,8 @@
+# How to run 
+1.Download the dataset from the kaggle website.
+2.Put it in the same directory as the .ipynb file.
+3.open the notebook and run every cell one by one.
+
 # Extracting-Trending-Financial-News-From-Daily-News-Articles
 
 This project aims to extract the trending financial news from daily news articles using Natural Language Processing techniques. 
